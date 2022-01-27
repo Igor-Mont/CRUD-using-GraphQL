@@ -6,13 +6,18 @@
   "author": "Igor Mont <igornathandev@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "npx nodemon src/index.js"
+    "dev": "npx nodemon --exec babel-node src/index.js"
   },
   "dependencies": {
     "apollo-server": "^3.6.2",
-    "graphql": "^16.3.0"
+    "graphql": "^16.3.0",
+    "mongoose": "^6.1.8"
   },
   "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.12",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
     "nodemon": "^2.0.15"
   }
 }
