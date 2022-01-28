@@ -21,4 +21,24 @@
   <li><a href="https://www.mongodb.com/">MongoDB</a> Banco de dados noSQL</li>
   <li><a href="https://graphcdn.io/">GraphQL</a>Linguagem de consulta</li>
 </ul>
+
+<hr/>
+
+<h2> 🛠 Features</h2>
+
+<p>Alguns dos recursos dessa aplicação:</p>
+
+-   [ ] Criar um usuário;
+-   [ ] Atualizar um usuário;
+-   [ ] Deletar um usuário;
+-   [ ] Listar usuário pelo id;
+-   [ ] Listar usuários;
+-   [ ] Criar um Post
+-   [ ] Atualizar um Post
+-   [ ] Deletar um Post
+-   [ ] Listar post pelo id;
+-   [ ] Listar posts;
+
+<h3>🚨 CRUD feito para ter o primeiro contato com graphQL e mongoDB</h3>
+
 <hr/>
